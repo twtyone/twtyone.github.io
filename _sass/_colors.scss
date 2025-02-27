@@ -6,5 +6,5 @@ $hoverColour: darken($linkColour, 10%);
 $captionColour: lighten($headingColour, 40%);
 $white: #fff;
 
-$backgroundColour: #f0f0f0;
+$backgroundColour: $fundo-claro;
 $codeBackgroundColour: darken($backgroundColour, 5%);
