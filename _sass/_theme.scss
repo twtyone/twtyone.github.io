@@ -40,7 +40,6 @@ body {
 
 .header {
   @include flex(0, 0, auto);
-  background: darken($backgroundColour, 10%);
   border-bottom: 1px solid darken($backgroundColour, 15%);
 }
 
