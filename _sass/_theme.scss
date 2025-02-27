@@ -6,6 +6,10 @@ body {
   display: flex;
   @include flex-direction(column);
   overflow-x: hidden;
+  max-width: 1000px;
+  margin: 0 auto;
+  padding: 20px;
+  line-height: 1.5;
 }
 
 .container {
