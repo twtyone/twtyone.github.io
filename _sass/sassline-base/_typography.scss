@@ -241,7 +241,7 @@ a {
 
   // Caption and inline small text.
   small, .caption {
-    @include fontsize(1rem, all);    # alterei de theta pro rem
+    @include fontsize(1rem, all);    // alterei de theta pro rem
 
     font-family: unquote(map-get($headingtype, font-family));
     font-style: normal;
