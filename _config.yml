@@ -39,7 +39,7 @@ collections:
   posts:
     title: Blog # Needed for Siteleaf
     output: true
-    description: "posts aqui,mas olha [esse link](about)" # The post list page content
+    description: "posts aqui, mas olha [esse link](about)" # The post list page content
 
 # 6. Jekyll collections settings
 defaults:
