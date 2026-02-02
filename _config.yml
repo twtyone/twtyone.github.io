@@ -37,7 +37,7 @@ timezone: America/Sao_Paulo # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: @ # Needed for Siteleaf
+    title: blog # Needed for Siteleaf
     output: true
     description: "posts aqui, mas olha [esse link](projeto)" # The post list page content
 
