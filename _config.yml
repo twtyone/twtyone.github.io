@@ -37,8 +37,8 @@ timezone: America/Sao_Paulo # Timezone for blog posts and alike
 # 5. Collections
 collections:
   posts:
-    title: ~~ # Needed for Siteleaf
-    output: false
+    title: @ # Needed for Siteleaf
+    output: true
     description: "posts aqui, mas olha [esse link](about)" # The post list page content
 
 # 6. Jekyll collections settings
@@ -58,7 +58,7 @@ defaults:
 
 # 7. Site settings
 encoding: utf-8 # Make sure the encoding is right
-title: "Isa" # Site name or title
+title: "Israela" # Site name or title
 logo:  # Site logo: "/assets/logo.svg"
 # favicon: "/favicon.ico" # Uncomment to add custom favicon, or leave as is to use site logo
 description: # "A really basic theme for Jekyll, using the official Jekyll theme implementation" # Site description and default description
