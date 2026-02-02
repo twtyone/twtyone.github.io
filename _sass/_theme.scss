@@ -1,7 +1,7 @@
 // Structural elements
 body {
   background: $backgroundColour;
-  color: #333333;
+  color: #999999;
   height: 100%;
   display: flex;
   @include flex-direction(column);
