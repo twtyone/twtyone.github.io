@@ -1,5 +1,5 @@
 ---
-title: Who is Mike Myers?
+title: who is mike myers?
 category: People
 ---
 
