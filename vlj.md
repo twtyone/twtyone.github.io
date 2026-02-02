@@ -1,1 +1,0 @@
-o wue temos aqui
