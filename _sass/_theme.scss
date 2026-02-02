@@ -65,9 +65,12 @@ body {
 }
 
 
-.logo {
-  margin-left: auto;
+.site-title,
+.logo,
+.header h1 {
+  display: none;
 }
+
 
 
 // Nav and copyright
