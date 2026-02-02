@@ -38,7 +38,7 @@ timezone: America/Sao_Paulo # Timezone for blog posts and alike
 collections:
   posts:
     title: ~~ # Needed for Siteleaf
-    output: true
+    output: false
     description: "posts aqui, mas olha [esse link](about)" # The post list page content
 
 # 6. Jekyll collections settings
