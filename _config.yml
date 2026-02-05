@@ -39,7 +39,7 @@ collections:
   posts:
     title: blog # Needed for Siteleaf
     output: true
-    description: "[projeto](projeto)" # The post list page content
+    description: "[link](projeto)" # The post list page content 
 
 # 6. Jekyll collections settings
 defaults:
